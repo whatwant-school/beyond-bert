@@ -2,5 +2,5 @@
 
 ## 01-week
 
-### Beyond BERT 
+### Beyond BERT (민다빈)
 - https://www.youtube.com/watch?v=L_NpC0qcDkM
